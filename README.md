@@ -1,0 +1,1 @@
+# alphastream-engine\n\n**AlphaStream: Quantitative Backtesting Engine - Event-driven backtesting platform processing tick-level order book data.**\n\n## Tech Stack\n- Python\n- C++\n- Redis\n- Pandas\n- Docker\n
